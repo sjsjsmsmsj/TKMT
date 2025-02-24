@@ -45,11 +45,11 @@ Xin chào! Tôi là **Lâm Gia Thịnh**, một coder đam mê dữ liệu và t
 ## 📈 Một số hình ảnh từ phân tích
 📊 **Biểu đồ tỷ lệ đất**
 
-![Biểu đồ tỷ lệ đất](https://via.placeholder.com/800x400.png?text=Pie+Chart)
+![Biểu đồ tỷ lệ đất](https://github.com/sjsjsmsmsj/TKMT/blob/main/ty_le_dat.png)
 
 📈 **Biểu đồ phân phối diện tích đất**
 
-![Biểu đồ phân phối](https://via.placeholder.com/800x400.png?text=Distribution+Graph)
+![Biểu đồ phân phối](https://github.com/sjsjsmsmsj/TKMT/blob/main/phan_phoi.png)
 
 ---
 
