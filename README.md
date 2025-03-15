@@ -1,7 +1,7 @@
 # 🚀 Lâm Gia Thịnh - Hành Trình Phân Tích Dữ Liệu
 
 ### 🏫 Đại học: Khoa học Máy tính 19A  
-### 📊 Dự án: Phân tích dữ liệu đất đai - Hiểu sâu hơn qua từng dòng code
+### 📊 Dự án: Phân tích dữ liệu - Hiểu sâu hơn qua từng dòng code
 
 ---
 
