@@ -1,0 +1,9 @@
+# ta có các phân phối: 
+# phân phối nhị thức, phân phối poisson, phân phối chuẩn , phân phối phối chi(ít dùng)
+# binom                    poisson          norm 
+# rvs là hàm ngẫu nhiên 
+# cdf (P(x <= X)) , pmf P(x = X) tính toán tại một điểm 
+# mật độ pdf 
+#  nhị thức: binom.pmf(số lần đúng, n, p) 
+# poisson: poisson.pmf(số lần mong đợi của mình, mu=landa)
+# phân phối chuẩn: norm.pmf(số mình cần tính, loc(trung bình) = ?, scale(độ lệch chuẩn) = ?)
